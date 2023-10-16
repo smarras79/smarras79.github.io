@@ -7,7 +7,7 @@ author_profile: true
 ---
 Contact information is below, including email and various web services.  
 
-* E-mail: [am2455@njit.edu](mailto:am2455@njit.edu)
-* Google Scholar: [Abhishek Mukherjee](https://scholar.google.com/citations?user=K2SRNu4AAAAJ&hl=en&authuser=1)
-* LinkedIn: [abhishek-mukherjee](http://www.linkedin.com/in/abhishek-mukherjee-24078888/)
-* ResearchGate: [Abhishek-Mukherjee](https://www.researchgate.net/profile/Abhishek-Mukherjee-8)
+* E-mail: [smarras@njit.edu](mailto:smarras@njit.edu)
+* Google Scholar: [Simone Marras](https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en)
+* LinkedIn: [Simone Marras](https://www.linkedin.com/in/simoaero/)
+* ResearchGate: [Simone Marras](https://www.researchgate.net/profile/Simone-Marras)
