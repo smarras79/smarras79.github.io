@@ -14,4 +14,6 @@ Dr. Marras's lab is funded by the National Science Foundation (NSF), the New Jer
 
 <img src="../assets/logos/NSF.png" alt="drawing" width="200"/>
 <img src="../assets/logos/njeda.png" alt="drawing" width="200"/>
+<img src="../assets/logos/ups.png" alt="drawing" width="200"/>
+<img src="../assets/logos/nyt.png" alt="drawing" width="200"/>
 
