@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhishek Mukherjee"
+title                    : "Simone Marras"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Abhishek Mukherjee"
+name                     : &name "Simone Marras"
 description              : &description "Computational Fluid Dynamics Researcher"
 url                      : "https://absrocks.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
@@ -104,57 +104,35 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhishek Mukherjee"
+  name             : "Simone Marras"
   avatar           : "/assets/images/bio-self.jpg"
-  bio              : "Research Assistant at the <a style='color: black;' href='https://mie.njit.edu/'>Department of Mechanical & Industrial Engineering, <a style='color: black' href='https://www.njit.edu'>New Jersey Institute of Technology"
+  bio              : "Assistant Professor of Fluid Dynamics and Scientific Computint at the <a style='color: black;' href='https://mie.njit.edu/'>Department of Mechanical & Industrial Engineering, <a style='color: black' href='https://www.njit.edu'>New Jersey Institute of Technology"
   location         : "Newark, New Jersey"
-  email            :  am2455@njit.edu
-  # googlescholar    : "https://scholar.google.com/citations?user=K2SRNu4AAAAJ&hl=en&authuser=1"
+  email            :  smarras@njit.edu
+   # googlescholar    : "https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://scholar.google.com/citations?user=K2SRNu4AAAAJ&hl=en&authuser=1"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/absrocks"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/smarras79"
     - label: "LinkedIn"
       #avatar: "/assets/images/bio-self.jpg"
       icon:  "fab fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/abhishek-mukherjee-24078888/"
+      url: "https://www.linkedin.com/in/simoaero"
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "National Science Foundation"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/absrocks
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: https://gitlab.com/absrocks007
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: https://github.com/smarras79
 
 # Reading Files
 include:

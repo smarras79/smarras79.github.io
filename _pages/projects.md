@@ -4,13 +4,11 @@ excerpt: "My work history"
 classes: wide
 author_profile: true
 ---
-##### Role of coastal vegetation on tsunami energy attenuation
-In this study, we numerically investigated the effect of flexibility of vegetation in tsunami wave energy attenuation implementing a two-way coupling FSI (fluid-structure interaction) model to understand the boundary layer dynamics and hydrodynamics of full-scale three-dimensional tsunami flow to optimize the design of nature-based solutions to reduce the tsunami risk. [Read more](/articles/2022-fsi)
-##### CFD analysis to study the drag force of blue whale
-Remora is a type of ray finned fish which have front dorsal fins by which they can adhere to the smooth surface, and they can spend their lives by clinging to a large host fish mammal body such as whale, shark etc. Hence to understand the adherence mechanism, and why Remora species prefer certain regions of host fish body to adhere to, we conducted numerical analysis to get turbulent boundary layer characteristics to understand the drag mechanism around the whale body. [Read more](/articles/2020-whale)
-##### Study of oil droplet motion in water
-In this study, we conducted a large eddy simulation (LES)
+Welcome to the Computational Fluid Dynamics and Natural Hazards Lab!
 
+As the name entails, the Computational Fluid Dynamics and Natural Hazards Lab led by Dr. Marras uses computational techniques for fluid flows to study natural hazards. For example, tropical cyclones or tsunamis. At the CFDNH Lab, we are interested in the design of efficient numerical methods for low Mach number compressible flows and the design of dynamic and minimal- dissipation sub-grid scale models for Large Eddy Simulation (LES) of very-high Reynolds number flows. 
+
+Dr. Marras's lab is funded by the National Science Foundation (NSF), the New Jersey Economic Development Authority (NJEDA), and private companies, and has been featured by several news outlet including the New York Times.
 <!-- header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/mm-home-page-feature.jpg
