@@ -20,10 +20,10 @@ title                    : "Simone Marras"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : &name "Simone Marras"
-description              : &description "Computational Fluid Dynamics Researcher"
-url                      : "https://absrocks.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Tropical cyclones anyone?"
+url                      : "https://smarras79.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/absrocks" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/smarras79" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # "/assets/images/bio-self.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Simone Marras"
   avatar           : "/assets/images/bio-self.jpg"
-  bio              : "Assistant Professor of Fluid Dynamics and Scientific Computint at the <a style='color: black;' href='https://mie.njit.edu/'>Department of Mechanical & Industrial Engineering, <a style='color: black' href='https://www.njit.edu'>New Jersey Institute of Technology"
+  bio              : "Assistant Professor of Fluid Dynamics and Scientific Computing at the <a style='color: black;' href='https://mie.njit.edu/'>Department of Mechanical & Industrial Engineering, <a style='color: black' href='https://www.njit.edu'>New Jersey Institute of Technology"
   location         : "Newark, New Jersey"
   email            :  smarras@njit.edu
    # googlescholar    : "https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en"
