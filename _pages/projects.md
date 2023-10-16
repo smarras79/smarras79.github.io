@@ -11,10 +11,16 @@ As the name entails, the Computational Fluid Dynamics and Natural Hazards Lab le
 Dr. Marras's lab is funded by the National Science Foundation (NSF), the New Jersey Economic Development Authority (NJEDA), and private companies, and has been featured by several news outlet including the New York Times.
 
 # Whale simulations
-![whale](assets/images/contour_blue_03.jpg)
+![whale](/assets/images/contour_blue_03.jpg)
+
+<img src="markdownmonstericon.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
 
 # Tropical cyclones
-![TC](assets/images/cloud-NVIDIAIndex.png)
+![TC](../assets/images/cloud-NVIDIAIndex.png)
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/mm-home-page-feature.jpg
 
 <!-- header:
   overlay_color: "#5e616c"
