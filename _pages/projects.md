@@ -10,10 +10,6 @@ Dr. Marras's lab is funded by the National Science Foundation (NSF), the New Jer
 # Whale simulations
 ![whale](/assets/images/contour_blue_03.jpg)
 
-<img src="../assets/images/cloud-NVIDIAIndex.png">
-<img src="../assets/images/contour_blue_03.jpg">
-
-
 # Tropical cyclones
 Funded by NSF
 ![TC](../assets/images/cloud-NVIDIAIndex.png)
