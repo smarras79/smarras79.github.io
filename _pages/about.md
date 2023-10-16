@@ -6,15 +6,9 @@ classes: wide
 author_profile: true
 ---
 
-Hello I am Abhishek, a doctoral student currently doing research on the role of
-vegetation in coastal risk reduction at [NJIT](https://njit.edu) with
-Dr. [Simone Marras](https://web.njit.edu/~smarras/). I primarily work on
-numerical analysis of geophysical flows. I also have experience in
-computational heat transfer.
+Welcome to the Computational Fluid Dynamics and Natural Hazards Lab!
 
-# Academic and Professional Background
-Before my research assistantship at NJIT, I worked in [Larsen & Toubro](https://www.larsentoubro.com/)
-for 3 years. I was involved in [ITER](https://www.iter.org/) nuclear fusion
-reactor project, where I worked on designing thermal load I have also worked in preparing
-technical proposal document, checking vendor data, bill of materials etc.
-Before that I completed my master degree  at the [Jadavpur University](http://www.jaduniv.edu.in/)
+As the name entails, the Computational Fluid Dynamics and Natural Hazards Lab led by Dr. Marras uses computational techniques for fluid flows to study natural hazards. For example, tropical cyclones or tsunamis. At the CFDNH Lab, we are interested in the design of efficient numerical methods for low Mach number compressible flows and the design of dynamic and minimal- dissipation sub-grid scale models for Large Eddy Simulation (LES) of very-high Reynolds number flows. 
+
+We work by PI Marras is funded by the National Science Foundation (NSF), the New Jersey Economic Development Authority (NJEDA), and private companies, and has been featured by several news outlet including the New York Times.
+
