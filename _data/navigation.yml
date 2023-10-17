@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Jexpresso"
+    url: https://github.com/smarras79/Jexpresso
   - title: "Projects"
     url: /projects/
   - title: "Publications"
