@@ -16,4 +16,4 @@ Dr. Marras's lab has been funded by the National Science Foundation (NSF), the E
 <img src="../assets/logos/MarieCurieLogo320px.jpg" alt="drawing" width="200"/>
 <img src="../assets/logos/logo-ec--en.svg" alt="drawing" width="200"/>
 <img src="../assets/logos/ups.png" alt="drawing" width="100"/>
-<img src="../assets/logos/nyt.png" alt="drawing" width="500"/>
+<img src="../assets/logos/nyt.png" alt="drawing" width="1000"/>
