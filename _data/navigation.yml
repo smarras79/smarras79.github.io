@@ -4,6 +4,8 @@ main:
     url: https://github.com/smarras79/Jexpresso
   - title: "Projects"
     url: /projects/
+  - title: "People"
+    url: /people/
   - title: "Publications"
     url: /bibtex/
 #   url: https://mmistakes.github.io/minimal-mistakes/about/
