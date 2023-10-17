@@ -61,23 +61,20 @@ Weather Prediction at Petascale with the Atmospheric Model NUMA.” *The
 International Journal of High Performance Computing Applications* 33:
 411–26.
 
-
 Marras, Simone, Michal A Kopera, Emil M Constantinescu, Jenny Suckale,
 and Francis X Giraldo. 2018. “A Residual-Based Shock Capturing Scheme
 for the Continuous/Discontinuous Spectral Element Solution of the 2D
 Shallow Water Equations.” *Advances in Water Resources* 114: 45–63.
 
-Kelly, James F, Simone Marras, Xiaofeng Zhao, and Robert J McGough.
-2018. “Linear and Nonlinear Ultrasound Simulations Using the
-Discontinuous Galerkin Method.” *The Journal of the Acoustical Society
+Kelly, James, Simone Marras, Xiaofeng Zhao, and Robert J McGough.
+2018. "Linear and Nonlinear Ultrasound Simulations Using the
+Discontinuous Galerkin Method." *The Journal of the Acoustical Society
 of America* 143 (4): 2438–48.
 
-
 Guimond, Stephen R, Jon M Reisner, Simone Marras, and Francis X Giraldo.
-2016. “The Impacts of Dry Dynamic Cores on Asymmetric Hurricane
-Intensification.” *Journal of the Atmospheric Sciences* 73 (12):
+2016. "The Impacts of Dry Dynamic Cores on Asymmetric Hurricane
+Intensification." *Journal of the Atmospheric Sciences* 73 (12):
 4661–84.
-
 
 Marras, Simone, James F Kelly, Margarida Moragues, Andreas Müller,
 Michal A Kopera, Mariano Vázquez, Francis X Giraldo, Guillaume Houzeaux,
