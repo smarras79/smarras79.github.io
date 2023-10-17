@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 # Tropical cyclones
-Funded by the National Science Foundation, we are investigating, by high-performance computing and numerical means, the fluid flow dynamics that control the rapid intensification of tropical cyclones. The software at the foundation of this (computationally demanding) project is the Nonhydrostatic Unified Model of the Atmosphere ([NUMA](https://frankgiraldo.wixsite.com/mysite/numa)), born from the fingers of my long-time mentor [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) and James F. Kelly (Jim) at the [Naval Postgraduate School](https://www.nps.edu), and co-developed by the PI and graduate student Yassine Tissaoui for many years.
+Funded by the National Science Foundation, and in collaboration with Dr. Steve Guimond from Hampton University, we are investigating, by high-performance computing and numerical means, the fluid flow dynamics that control the rapid intensification of tropical cyclones. The software at the foundation of this (computationally demanding) project is the Nonhydrostatic Unified Model of the Atmosphere ([NUMA](https://frankgiraldo.wixsite.com/mysite/numa)), born from the fingers of my long-time mentor [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) and James F. Kelly (Jim) at the [Naval Postgraduate School](https://www.nps.edu), and co-developed by the PI and graduate student Yassine Tissaoui for many years.
 ![Tc](../assets/images/cloud-NVIDIAIndex.png)
 
 # Improving cloud modeling on large computers
+The paper by graduate student Yassine Tissaoui investigated how vertically unstructured grids can be beneficial in the modeling of clouds on very large computers. This work sets the stepping stone towards the ability to use fully three-dimensional adaptive grids to study tropical cyclones (see project above) on exascale computers without breaking the bank when it comes to computational cost.
 [Tissaoui et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003283)
-
+![cloud](../assets/images/cloudJAMES.jpg)
 
 # Whale simulations
 This study, in collaboration with scientists from different institutions, contributed to a better understanding of why remoras attachon some very specific parts of large blue whales. All simulations were performed by Dr. Abhishek Mukherjee while he was a doctoral student at NJIT. The multi-physics software [Alya](https://www.bsc.es/research-development/research-areas/engineering-simulations/alya-high-performance-computational) from the [Barcelona Supercomputing Center](https://www.bsc.es) was a key tool to obtain these results. The New York Times even wrote an article about this study [NY Times link](https://www.nytimes.com/2020/10/29/science/remoras-suckerfish-whales.html)! [Flammang et al. 2020](https://journals.biologists.com/jeb/article/223/20/jeb226654/226037/Remoras-pick-where-they-stick-on-blue-whales)
