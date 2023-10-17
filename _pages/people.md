@@ -10,8 +10,8 @@ author_profile: true
 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain\
 M.S. in aerospace engineering, Politecnico di Milano
 
-- Yassine Tissaoui, Ph.D. candidate.
-- Akhilesh Kootala, Undergraduate Honors Student, Mechanical Engineering.
+- Yassine Tissaoui, Ph.D. Candidate (expected defense: Sept 2024)
+- Akhilesh Kootala, B.S. Honors Student, Mechanical Engineering.
 
 # Previous group members
 ## Post doctoral scientists
@@ -29,11 +29,11 @@ Italy.
 Italy.
 - Luca Gandolfi,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
 Italy.
-- Alice Ragni,  M.S. Mechanical engineering, student.
-- Kevin Klein, M.S. Mechanical engineering, student. 
-- Luca Gandolfi, M.S. Mechanical engineering, graduated, Spring 2019.
-- Matteo Fabbri, M.S. Mechanical engineering, graduated, Spring 2019.
-- Abhinav Goel, M.S. Mechanical engineering graduated, Spring 2018.
+- Alice Ragni,  M.S. Mechanical engineering.
+- Kevin Klein, M.S. Mechanical engineering.
+- Luca Gandolfi, M.S. Mechanical engineering.
+- Matteo Fabbri, M.S. Mechanical engineering.
+- Abhinav Goel, M.S. Mechanical engineering.
 - Songze Li, graduated, Stanford University, Co-advisor (with Prof.
 Jenny Suckale, Stanford University)
 - Brent Lunghino M.S. Stanford University, Co-advisor (with

@@ -10,6 +10,8 @@ Funded by NSF
 ![TC](../assets/images/cloud-NVIDIAIndex.png)
 
 # Whale simulations
+
+[Flammang et al. 2020](https://)
 ![whale](/assets/images/contour_blue_03.jpg)
 
 
