@@ -5,8 +5,6 @@ classes: wide
 author_profile: true
 ---
 
-
-
 # Tropical cyclones
 Funded by NSF
 ![TC](../assets/images/cloud-NVIDIAIndex.png)
