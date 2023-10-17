@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Tropical cyclones
-Funded by the National Science Foundation, we are investigating, by high-performance computing and numerical means, the fluid flow dynamics that control the rapid intensification of tropical cyclones. The software at the foundation of this (computationally demanding) project is the Nonhydrostatic Unified Model of the Atmosphere ([NUMA](https://frankgiraldo.wixsite.com/mysite/numa)), born by the fingers of my long-time mentor Prof. Frank X. Giraldo at the Naval Postgraduate School, and co-developed by the PI and graduate student Yassine Tissaoui for many years.
+Funded by the National Science Foundation, we are investigating, by high-performance computing and numerical means, the fluid flow dynamics that control the rapid intensification of tropical cyclones. The software at the foundation of this (computationally demanding) project is the Nonhydrostatic Unified Model of the Atmosphere ([NUMA](https://frankgiraldo.wixsite.com/mysite/numa)), born from the fingers of my long-time mentor [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) and James F. Kelly (Jim) at the [Naval Postgraduate School](https://www.nps.edu), and co-developed by the PI and graduate student Yassine Tissaoui for many years.
 ![Tc](../assets/images/cloud-NVIDIAIndex.png)
 
 # Improving cloud modeling on large computers
