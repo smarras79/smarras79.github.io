@@ -107,8 +107,7 @@ author:
   name             : "Simone Marras"
   teaser           : "/assets/images/bio-self.jpg"
   bio              : "Assistant Professor of Fluid Dynamics and Scientific Computing at the <a style='color: black;' href='https://mie.njit.edu/'>Department of Mechanical & Industrial Engineering, <a style='color: black' href='https://www.njit.edu'>New Jersey Institute of Technology"
-  location         : "Newark, New Jersey"
-  email            :  smarras@njit.edu
+    email            :  smarras@njit.edu
    # googlescholar    : "https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en"
   links:
     - label: "Email"
