@@ -4,8 +4,6 @@ excerpt: "My work history"
 classes: wide
 author_profile: true
 ---
-#
-# Tropical cyclones
 Funded by the National Science Foundation, and in collaboration with Dr. Steve Guimond from Hampton University, we are investigating, by high-performance computing and numerical means, the fluid flow dynamics that control the rapid intensification of tropical cyclones. The software at the foundation of this (computationally demanding) project is the Nonhydrostatic Unified Model of the Atmosphere ([NUMA](https://frankgiraldo.wixsite.com/mysite/numa)), born from the fingers of my long-time mentor [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) and James F. Kelly (Jim) at the [Naval Postgraduate School](https://www.nps.edu), and co-developed by the PI and graduate student Yassine Tissaoui for many years.
 The fugure below shows the cloud content within a tropical cyclone simulated using adaptive mesh refinement up to LES resolution of 60 meters in the inner region of the hurricane! The 3D domain is massive, covering 800km X 800km X 30km. While the grid dimensions change as the simulation advances, the simulation at the time when this plot was created has a total of 127,000,000 grid points using spectral elements of order 4!
 ![Tc](/assets/images/cloud-NVIDIAIndex.png)
