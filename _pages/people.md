@@ -13,7 +13,7 @@ title: Group members
 2005 M.S. in aerospace engineering, Politecnico di Milano. Thesis developed at AIRBUS Deutschland, Hamburg, Germany.
 
 
-# Current:
+## Current students:
 - Yassine Tissaoui, Ph.D. Candidate (expected defense: Sept 2024)
 - Akhilesh Kootala, B.S. Honors Student, Mechanical Engineering.
 
