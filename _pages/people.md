@@ -7,8 +7,11 @@ author_profile: true
 
 # Current group members
 - Prof. Simone Marras - Principal Investigator\
-Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain\
-M.S. in aerospace engineering, Politecnico di Milano
+2015-2017 Research Scientist, Stanford University, in the group led by Prof. Jenny Suckale.\
+2013-2015 Research Associate of the National Research Council of the National Academies, mentored by long-time collaborator [Prof. Frank X. Giraldo]() at the Naval Postgraduate School.\
+2012 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain. Advisors: Dr. Mariano Vazquez and Oriol Jorba at the Barcelona Supercomputing Center.\
+2005 M.S. in aerospace engineering, Politecnico di Milano. Thesis developed at AIRBUS Deutschland, Hamburg, Germany.\
+
 
 - Yassine Tissaoui, Ph.D. Candidate (expected defense: Sept 2024)
 - Akhilesh Kootala, B.S. Honors Student, Mechanical Engineering.
