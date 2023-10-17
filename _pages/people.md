@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Current group members
-- Prof. Simone Marras - Principal Investigator
+- Prof. Simone Marras - Principal Investigator\
 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain\
 M.S. in aerospace engineering, Politecnico di Milano
 
