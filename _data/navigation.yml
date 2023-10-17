@@ -9,8 +9,6 @@ main:
   - title: "Publications"
     url: /bibtex/
 #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "CV"
-    url: /cv/
   - title: "Contact"
     url: /contact/
   # - title: "Sitemap"
