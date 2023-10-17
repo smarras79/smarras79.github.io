@@ -10,7 +10,7 @@ author_profile: true
 2015-2017 Research Scientist, Stanford University, in the group led by [Dr. Jenny Suckale](https://earth.stanford.edu/people/jenny-suckale).\
 2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/), mentored by long-time collaborator [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) at the Naval Postgraduate School, Monterey, California.\
 2012 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain. Advisors: [Dr. Mariano Vazquez](https://scholar.google.com.ar/citations?user=fCg0DeMAAAAJ&hl=en) and [Dr. Oriol Jorba](https://scholar.google.es/citations?user=kbSmdl0AAAAJ&hl=en), [Barcelona Supercomputing Center](https://www.bsc.es).\
-2005 M.S. in aerospace engineering, Politecnico di Milano. Thesis developed at AIRBUS Deutschland, Hamburg, Germany.\
+2005 M.S. in aerospace engineering, Politecnico di Milano. Thesis developed at AIRBUS Deutschland, Hamburg, Germany.
 
 - Yassine Tissaoui, Ph.D. Candidate (expected defense: Sept 2024)
 - Akhilesh Kootala, B.S. Honors Student, Mechanical Engineering.
