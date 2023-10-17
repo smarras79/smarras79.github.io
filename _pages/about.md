@@ -12,10 +12,10 @@ As the name entails, the Computational Fluid Dynamics and Natural Hazards Lab le
 Dr. Marras's lab has been funded by the National Science Foundation (NSF), the European Union, the New Jersey Economic Development Authority (NJEDA), and private companies, and has been featured by several news outlet including the New York Times.
 
 
-<img src="../assets/logos/NSF.png" alt="drawing" width="200"/>
-<img src="../assets/logos/njeda.png" alt="drawing" width="200"/>
-<img src="../assets/logos/ups.png" alt="drawing" width="200"/>
+<img src="../assets/logos/NSF.png" alt="drawing" width="300"/>
+<img src="../assets/logos/njeda.png" alt="drawing" width="100"/>
 <img src="../assets/logos/MarieCurieLogo320px.jpg" alt="drawing" width="200"/>
 <img src="../assets/logos/logo-ec--en.svg" alt="drawing" width="200"/>
+<img src="../assets/logos/ups.png" alt="drawing" width="100"/>
 <img src="../assets/logos/nyt.png" alt="drawing" width="200"/>
 
