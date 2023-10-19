@@ -17,7 +17,7 @@ title: Group members
 - Yassine Tissaoui, Ph.D. Candidate (September 2019 - current. Expected defense: Sept 2024)\
   Working on the modeling of tropical cyclones intensification, numerical analysis, atmospheric turbulence.
 - Noah Stanford, Bergen County High School.  (May 2023 - current)\
-  Working on discontinuous Galerkin methods and quantum computing.\
+  Working on discontinuous Galerkin methods and quantum computing.
 - Akhilesh Kootala, B.S. Honors Student, Mechanical Engineering (October 2023 - current)\
   working on large-scale flow visualization.
  
