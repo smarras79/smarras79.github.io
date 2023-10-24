@@ -22,7 +22,7 @@ This study, in collaboration with scientists from different institutions, contri
 
 # Tsunami modeling and simulation (Coastal resilience)
 Communities around the world are increasingly interested in nature-based solutions to the mitigation of coastal risks by coastal forests, but it remains unclear how much protective benefits vegetation provides, particularly in the limit of highly energetic flows after tsunami impact. Abhishek Mukherjee's doctoral thesis started a long-term investigation of how much of the flow energy can be deviated or abosrbed by the presence of flexible large coastal trees. Some initial results were published in [Mukherjee et al.](https://www.sciencedirect.com/science/article/abs/pii/S0378383923000108). This work is in collaboration with Dr. Juan Carlos Cajas at the Universidad Autonoma de Mexico, en Merida, and Guillaume Houzeaux and Oriol Lehmkuhl from Barcelona Supercomputing Center. 
-More work on tsunami modeling by the PI can be also found in [Madden et al.](https://gmd.copernicus.org/articles/16/3479/2023/) and [Lunghino et al.](https://www.pnas.org/doi/10.1073/pnas.1911857117). I suggest to also read the review paper by [Marras and Mandli](https://www.mdpi.com/2076-3263/11/1/5)
+More work on tsunami modeling by the PI with collaborators at [Stanford University](https://www.stanford.edu) can be read in [Madden et al.](https://gmd.copernicus.org/articles/16/3479/2023/) and [Lunghino et al.](https://www.pnas.org/doi/10.1073/pnas.1911857117). I suggest to also read the review paper by [Marras and Mandli](https://www.mdpi.com/2076-3263/11/1/5)
 
 
 ![tsun](/assets/images/tsunami1.png)
