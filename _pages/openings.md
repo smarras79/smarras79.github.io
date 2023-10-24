@@ -3,10 +3,8 @@ permalink: /openings/
 excerpt: "Jobs"
 classes: wide
 author_profile: true
-title: Jobs
+title: Join the group
 ---
-# Join the group
-
 ## Fully funded PhD position in Computational Fluid Dynamics for Atmospheric Modeling
 Are you a computer geek who enjoys writing code? Do you have a provable experience in ANY programming languages such as C/C++, Fortran 90/95 or, even better, Julia?
 
