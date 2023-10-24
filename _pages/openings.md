@@ -1,3 +1,10 @@
+---
+permalink: /openings/
+excerpt: "Jobs"
+classes: wide
+author_profile: true
+title: Jobs
+---
 # Join the group
 
 ## Fully funded PhD position in Computational Fluid Dynamics for Atmospheric Modeling
