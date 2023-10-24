@@ -1,8 +1,6 @@
 # Join the group
 
-## Fully funded PhD position in Computational Fluid Dynamics for Atmo-
-spheric Modeling
-
+## Fully funded PhD position in Computational Fluid Dynamics for Atmospheric Modeling
 Are you a computer geek who enjoys writing code? Do you have a provable experience in ANY programming languages such as C/C++, Fortran 90/95 or, even better, Julia?
 
 Would you like to apply your abilities towards a doctoral degree in numerical methods to model atmospheric flows?
@@ -14,7 +12,7 @@ You will be part ofa collaborative project between New Jersey Institute of Techn
 If interested: send the following documents:\
 - A detailed CV.
 - A link to your github or gitlab profile or equivalent portfolio.
-- A half-page motiviation letter on why you are willing to apply for a Ph.D. position.
+- A half-page motivation letter on why you are willing to work towards a Ph.D. degree.
 
 Only those who submit all of the above will be considered.
 
@@ -29,7 +27,7 @@ Notice: if you require a VISA to the US to apply for this position, please speci
 
 Contact Dr. S. Marras by email: smarras@njit.edu
 
-## Funded Undergraduate project:
+## Funded Undergraduate projects:
 1. If you have an interest for flow visualization, experience with computers and minimal programming, and are willing to commit 10 hours/week, contact me with a CV.
 
 2. If you are interested in a coding related project, contact me with a CV and a link to your github/gitlab profile or equivalent portfolio.
