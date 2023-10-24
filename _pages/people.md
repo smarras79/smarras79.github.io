@@ -5,7 +5,7 @@ classes: wide
 author_profile: true
 title: Group members
 ---
-# Principal Investigator
+## Principal Investigator
 - Prof. Simone Marras\
 2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu), in the group led by Dr. Jenny Suckale.\
 2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/), mentored by long-time collaborator [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) at the [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
