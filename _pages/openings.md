@@ -14,7 +14,7 @@ If you answered yes to both questions, then this is the opening for you!
 
 You will be part ofa collaborative project between New Jersey Institute of Technology and the University of Wisconsin at Madison. 
 
-If interested: send the following documents:\
+If interested: send the following documents:
 - A detailed CV.
 - A link to your github or gitlab profile or equivalent portfolio.
 - A half-page motivation letter on why you are willing to work towards a Ph.D. degree.
@@ -32,7 +32,7 @@ Notice: if you require a VISA to the US to apply for this position, please speci
 
 Contact Dr. S. Marras by email: smarras@njit.edu
 
-## Funded Undergraduate projects:
-1. If you have an interest for flow visualization, experience with computers and minimal programming, and are willing to commit 10 hours/week, contact me with a CV.
+## Funded Undergraduate projects (for current NJIT undergraduate students only):
+1. If you are interested in flow visualization, experience with computers and minimal programming, and are willing to commit 10 hours/week, contact me with a CV.
 
 2. If you are interested in a coding related project, contact me with a CV and a link to your github/gitlab profile or equivalent portfolio.
