@@ -17,7 +17,9 @@ You will be part ofa collaborative project between New Jersey Institute of Techn
 If interested: send the following documents:
 - A detailed CV.
 - A link to your github or gitlab profile or equivalent portfolio.
-- A half-page motivation letter on why you are willing to work towards a Ph.D. degree.
+- One-page motivation letter on why you are willing to work towards a Ph.D. degree.
+- A copy of B.S. or M.S. thesis in any of these fields: applied mathematics, fluid dynamics, numerical methods, continuum mechanics, computer science.
+- Names of 3 senior scientists/professors who can write a reference letter for you.
 
 Only those who submit all of the above will be considered.
 
