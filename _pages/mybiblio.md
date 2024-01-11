@@ -1,3 +1,14 @@
+---
+permalink: /bibtex/
+bibliography: mybiblio.bib
+excerpt: "Bibliography"
+classes: wide
+author_profile: true
+nocite: "@*"
+---
+
+Tissaoui, Yassine, James F. Kelly, Simone Marras 2024 “Efficient Spectral Element Method 
+for the Euler Equations on Unbounded Domains in Multiple Dimensions” *arXiv [link](https://www.researchgate.net/publication/377300918_Efficient_Spectral_Element_Method_for_the_Euler_Equations_on_Unbounded_Domains_in_Multiple_Dimensions)
 
 Tissaoui, Yassine, Simone Marras, Annalisa Quaini, Felipe AV de Brangaca
 Alves, and Francis X Giraldo. 2023. “A Non-Column Based, Fully
@@ -59,13 +70,13 @@ for the Continuous/Discontinuous Spectral Element Solution of the 2D
 Shallow Water Equations.” *Advances in Water Resources* 114: 45–63. [link](https://www.sciencedirect.com/science/article/abs/pii/S0309170816302299)
 
 Kelly, James, Simone Marras, Xiaofeng Zhao, and Robert J McGough.
-2018. "Linear and Nonlinear Ultrasound Simulations Using the
-Discontinuous Galerkin Method." *The Journal of the Acoustical Society
+2018. “Linear and Nonlinear Ultrasound Simulations Using the
+Discontinuous Galerkin Method.” *The Journal of the Acoustical Society
 of America* 143 (4): 2438–48. [link](https://pubmed.ncbi.nlm.nih.gov/29716249/)
 
 Guimond, Stephen R, Jon M Reisner, Simone Marras, and Francis X Giraldo.
-2016. "The Impacts of Dry Dynamic Cores on Asymmetric Hurricane
-Intensification." *Journal of the Atmospheric Sciences* 73 (12):
+2016. “The Impacts of Dry Dynamic Cores on Asymmetric Hurricane
+Intensification.” *Journal of the Atmospheric Sciences* 73 (12):
 4661–84. [link](https://journals.ametsoc.org/view/journals/atsc/73/12/jas-d-16-0055.1.xml?tab_body=fulltext-display)
 
 Marras, Simone, James F Kelly, Margarida Moragues, Andreas Müller,
@@ -81,12 +92,10 @@ Marras, Simone, Murtazo Nazarov, and Francis X Giraldo. 2015.
 Dynamic SGS Model for LES.” *Journal of Computational Physics* 301:
 77–101. [link](https://www.sciencedirect.com/science/article/abs/pii/S0021999115004799)
 
-
 Marras, Simone, and Francis X Giraldo. 2015. “A Parameter-Free Dynamic
 Alternative to Hyper-Viscosity for Coupled Transport Equations:
 Application to the Simulation of 3D Squall Lines Using Spectral
 Elements.” *Journal of Computational Physics* 283: 360-373 [link](https://www.sciencedirect.com/science/article/abs/pii/S0021999114008158)
-
 
 Marras, Simone, Michal Kopera, and Francis X. Giraldo. 2014. “Simulation
 of Shallow Water Jets with a Unified Element-Based
