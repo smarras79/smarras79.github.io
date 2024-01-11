@@ -69,10 +69,9 @@ and Francis X Giraldo. 2018. “A Residual-Based Shock Capturing Scheme
 for the Continuous/Discontinuous Spectral Element Solution of the 2D
 Shallow Water Equations.” *Advances in Water Resources* 114: 45–63. [link](https://www.sciencedirect.com/science/article/abs/pii/S0309170816302299)
 
-Kelly, James, Simone Marras, Xiaofeng Zhao, and Robert J McGough.
-2018. “Linear and Nonlinear Ultrasound Simulations Using the
+Kelly, James, Simone Marras, Xiaofeng Zhao, and Robert McGough. 2018. “Linear and Nonlinear Ultrasound Simulations Using the
 Discontinuous Galerkin Method.” *The Journal of the Acoustical Society
-of America* 143 (4): 2438–48. [link](https://pubmed.ncbi.nlm.nih.gov/29716249/)
+of America* 143 (4): 2438-48 [link](https://pubmed.ncbi.nlm.nih.gov/29716249/)
 
 Guimond, Stephen R, Jon M Reisner, Simone Marras, and Francis X Giraldo.
 2016. “The Impacts of Dry Dynamic Cores on Asymmetric Hurricane
