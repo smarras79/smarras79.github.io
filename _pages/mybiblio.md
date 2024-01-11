@@ -8,7 +8,7 @@ nocite: "@*"
 ---
 
 Tissaoui, Yassine, James F. Kelly, Simone Marras 2024 “Efficient Spectral Element Method 
-for the Euler Equations on Unbounded Domains in Multiple Dimensions” *arXiv [link](https://www.researchgate.net/publication/377300918_Efficient_Spectral_Element_Method_for_the_Euler_Equations_on_Unbounded_Domains_in_Multiple_Dimensions)
+for the Euler Equations on Unbounded Domains in Multiple Dimensions” *arXiv* [link](https://www.researchgate.net/publication/377300918_Efficient_Spectral_Element_Method_for_the_Euler_Equations_on_Unbounded_Domains_in_Multiple_Dimensions)
 
 Tissaoui, Yassine, Simone Marras, Annalisa Quaini, Felipe AV de Brangaca
 Alves, and Francis X Giraldo. 2023. “A Non-Column Based, Fully
@@ -73,8 +73,9 @@ Kelly, James, Simone Marras, Xiaofeng Zhao, and Robert McGough. 2018. “Linear 
 Discontinuous Galerkin Method.” *The Journal of the Acoustical Society
 of America* 143: 2438-48 [link](https://pubmed.ncbi.nlm.nih.gov/29716249/)
 
-Guimond, Stephen R, Jon M Reisner, Simone Marras, and Francis X Giraldo. 2016. “The Impacts of Dry Dynamic Cores on Asymmetric Hurricane
-Intensification.” *Journal of the Atmospheric Sciences* 73: 4661-84. [link](https://journals.ametsoc.org/view/journals/atsc/73/12/jas-d-16-0055.1.xml?tab_body=fulltext-display)
+Guimond, Stephen R, Jon M Reisner, Simone Marras, and Francis X Giraldo. 2016. 
+“The Impacts of Dry Dynamic Cores on Asymmetric Hurricane Intensification.”
+*Journal of the Atmospheric Sciences* 73: 4661-84. [link](https://journals.ametsoc.org/view/journals/atsc/73/12/jas-d-16-0055.1.xml?tab_body=fulltext-display)
 
 Marras, Simone, James F Kelly, Margarida Moragues, Andreas Müller,
 Michal A Kopera, Mariano Vázquez, Francis X Giraldo, Guillaume Houzeaux,
