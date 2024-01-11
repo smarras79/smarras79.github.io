@@ -71,11 +71,11 @@ Shallow Water Equations.” *Advances in Water Resources* 114: 45–63. [link](h
 
 Kelly, James, Simone Marras, Xiaofeng Zhao, and Robert McGough. 2018. “Linear and Nonlinear Ultrasound Simulations Using the
 Discontinuous Galerkin Method.” *The Journal of the Acoustical Society
-of America* 143 (4): 2438-48 [link](https://pubmed.ncbi.nlm.nih.gov/29716249/)
+of America* 143: 2438-48 [link](https://pubmed.ncbi.nlm.nih.gov/29716249/)
 
 Guimond, Stephen R, Jon M Reisner, Simone Marras, and Francis X Giraldo.
 2016. “The Impacts of Dry Dynamic Cores on Asymmetric Hurricane
-Intensification.” *Journal of the Atmospheric Sciences* 73 (12):
+Intensification.” *Journal of the Atmospheric Sciences* 73:
 4661–84. [link](https://journals.ametsoc.org/view/journals/atsc/73/12/jas-d-16-0055.1.xml?tab_body=fulltext-display)
 
 Marras, Simone, James F Kelly, Margarida Moragues, Andreas Müller,
