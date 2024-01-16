@@ -9,7 +9,8 @@ title: Join the group
 Before you get in touch, please read the instructions below carefully. I will only respond to those who send all of the  documents mentioned in the specific openings.
 
 ## Fully funded PhD position in Computational Fluid Dynamics for Atmospheric Modeling
-#THIS POSITION HAS ALREADY BEEN FILLED
+## THIS POSITION HAS ALREADY BEEN FILLED
+
 Are you a computer geek who enjoys writing code? Do you have a provable experience in ANY programming languages such as C/C++, Fortran 90/95 or, even better, Julia?
 
 Would you like to apply your abilities towards a doctoral degree in numerical methods to model atmospheric flows?
