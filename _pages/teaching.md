@@ -3,6 +3,7 @@ permalink: /teaching/
 excerpt: "Classes"
 classes: wide
 author_profile: true
+title: Classes
 ---
 ## Graduate courses
 ME 618: Advanced coding methods for partial differential equations and machine learning\
