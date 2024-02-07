@@ -8,7 +8,7 @@ nocite: "@*"
 ---
 
 Tissaoui, Yassine, James F. Kelly, Simone Marras 2024 “Efficient Spectral Element Method 
-for the Euler Equations on Unbounded Domains in Multiple Dimensions” *arXiv* [link](https://www.researchgate.net/publication/377300918_Efficient_Spectral_Element_Method_for_the_Euler_Equations_on_Unbounded_Domains_in_Multiple_Dimensions)
+for the Euler Equations on Unbounded Domains in Multiple Dimensions” *arXiv 2401.05624* [link](https://www.researchgate.net/publication/377300918_Efficient_Spectral_Element_Method_for_the_Euler_Equations_on_Unbounded_Domains_in_Multiple_Dimensions)
 
 Tissaoui, Yassine, Simone Marras, Annalisa Quaini, Felipe AV de Brangaca
 Alves, and Francis X Giraldo. 2023. “A Non-Column Based, Fully
