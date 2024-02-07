@@ -8,10 +8,9 @@ main:
     url: /people/
   - title: "Publications"
     url: /bibtex/
-#   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Jobs"
     url: /openings/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Contact"
     url: /contact/
-  # - title: "Sitemap"
-  #   url: /sitemap/
