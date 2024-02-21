@@ -14,7 +14,7 @@ Before you get in touch, please read the instructions below carefully. I will on
 
 - Be already legally able to work in the US (e.g. visa holders, permanent residents, 
 citizens) or able to obtain a visa by April 2024.
-- Have already passed the GRE test or be able to pass it by April 1st.
+- Have already taken the GRE test or be able to take it by April 1st.
 - Link to github/gitlab account or provable coding experience
 - CV
 - Name and contact of 3 reference letter writers. 
@@ -30,7 +30,7 @@ To be considered, send ALL of the following documents:
 - A detailed CV.
 - A link to your github or gitlab profile or equivalent portfolio.
 - One-page motivation letter on why you are willing to work towards a Ph.D. degree.
-- A copy of B.S. or M.S. thesis in any of these fields: applied mathematics, fluid dynamics, numerical methods, continuum mechanics, computer science.
+- If you wrote a M.S. thesis, please send a copy of it or a copy of any research paper that may have co-authored.
 - Names of 3 senior scientists/professors who can write a reference letter for you.
 
 Only those who submit all of the above will be considered.
