@@ -6,11 +6,15 @@ author_profile: true
 title: Join the group
 ---
 
+I have 2 open positions in my group: 1 Ph.D. studentship for 4 years and 1 post-doctoral fellowship for up to 2 years.
+See below.
+
+
 Before you get in touch, please read the instructions below carefully. I will only respond to those who send all of the  documents mentioned in the specific openings.
 
-## Fully funded PhD position in Computational Fluid Dynamics for Atmospheric Modeling
+## 1. Fully funded PhD position in Computational Fluid Dynamics for Atmospheric Modeling
 
-## IMPORTANT: I will only consider applicantions that fullfill ALL of the following requirements:
+# IMPORTANT: I will only consider applicantions that fullfill ALL of the following requirements:
 
 - Be already legally able to work in the US (e.g. visa holders, permanent residents, 
 citizens) or able to obtain a visa by April 2024.
@@ -47,12 +51,12 @@ Notice: if you require a VISA to the US to apply for this position, please speci
 Contact Dr. S. Marras by email: smarras@njit.edu
 
 
-## Fully funded POST-DOCTORAL position in Computational Fluid Dynamics for Atmospheric Modeling
+## 2. Fully funded POST-DOCTORAL position in Computational Fluid Dynamics for Atmospheric Modeling
 
-## IMPORTANT: I will only consider applicantions that fullfill the following conditions:
+# IMPORTANT: I will only consider applicantions that fullfill the following conditions:
 I will only respond to applications with the following information:
 - Be already legally able to work in the US (e.g. visa holders, permanent residents, 
-citizens) or able to obtain a visa by April 2024.
+citizens) or able to obtain a visa by June 2024.`
 - Link to github/gitlab account or provable coding experience
 - CV
 - Name and contact of 3 reference letter writers. 
