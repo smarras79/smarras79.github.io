@@ -18,13 +18,19 @@ title: Group members
   Working on the modeling of tropical cyclones intensification, numerical analysis, atmospheric turbulence.
 - Noah Stanford, Bergen County High School.  (May 2023 - current)\
   Working on discontinuous Galerkin methods and quantum computing.
-- Akhilesh Kootala, B.S. Honors Student, Mechanical Engineering (October 2023 - current)\
-  working on large-scale flow visualization.
- 
+- Rhea Rawat, (Sept 2023 - current). Working on code performance evaluation.
+- Umberto Neviani, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
+- Lorenzo Fendillo, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
+- Harrison Tracy, B.S. (March 2024 - current). Flow visualization. 
+
+## Post doctoral scientists
+- Dr. Hang Wang, April 2024 - current
+
 
 # Previous:
 ## Post doctoral scientists
-- Dr. Margarida Moragues, Post-doc funded by a Marie-Slodowska Curie fellowship.
+- Dr. Hang Wang, April 2024 - current
+- Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. April
 
 ## Ph.D. students
 - Abhishek Mukherjee, Ph.D. Mechanical Engineering, NJIT, defended in May 2023.
@@ -49,6 +55,7 @@ Jenny Suckale, Stanford University)
 Prof. Jenny Suckale, Stanford University
 
 ## B.S. students
+- Akhilesh Kootala, B.S. Honors Student, Mechanical Engineering.
 - Arick Iglesias, B.S. Honors Student, Mechanical Engineering.
 - Eric Dougert, B.S.Mechanical Engineering.
 - Geovani Baaklini, B.S.Mechanical Engineering.
