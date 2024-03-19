@@ -29,7 +29,7 @@ title: Group members
 
 # Previous:
 ## Post doctoral scientists
-- Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. April
+- Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. 2019-2021
 
 ## Ph.D. students
 - Abhishek Mukherjee, Ph.D. Mechanical Engineering, NJIT, defended in May 2023.
