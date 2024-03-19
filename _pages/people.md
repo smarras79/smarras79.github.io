@@ -29,7 +29,6 @@ title: Group members
 
 # Previous:
 ## Post doctoral scientists
-- Dr. Hang Wang, April 2024 - current
 - Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. April
 
 ## Ph.D. students
