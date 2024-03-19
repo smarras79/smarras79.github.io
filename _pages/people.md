@@ -18,7 +18,7 @@ title: Group members
   Working on the modeling of tropical cyclones intensification, numerical analysis, atmospheric turbulence.
 - Noah Stanford, Bergen County High School.  (May 2023 - current)\
   Working on discontinuous Galerkin methods and quantum computing.
-- Rhea Rawat, (Sept 2023 - current). Working on code performance evaluation.
+- Rhea Rawat, Jihn P. Stevens High School (Sept 2023 - current). Working on code performance evaluation.
 - Umberto Neviani, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
 - Lorenzo Fendillo, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
 - Harrison Tracy, B.S. (March 2024 - current). Flow visualization. 
