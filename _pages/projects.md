@@ -8,7 +8,7 @@ title: On-going and past projects
 # Tropical cyclones at very high resolution using adaptive grids
 Funded by the National Science Foundation, and in collaboration with Dr. Steve Guimond from Hampton University, we are investigating, by high-performance computing and numerical means, the fluid flow dynamics that control the rapid intensification of tropical cyclones. The software at the foundation of this (computationally demanding) project is the Nonhydrostatic Unified Model of the Atmosphere ([NUMA](https://frankgiraldo.wixsite.com/mysite/numa)), born from the fingers of my long-time mentor [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) and James F. Kelly (Jim) at the [Naval Postgraduate School](https://www.nps.edu), and co-developed by the PI and graduate student Yassine Tissaoui for many years.
 The figure shows the cloud cover within a tropical cyclone simulated using adaptive mesh refinement up to LES resolution of 60 meters in the inner region of the hurricane. The 3D domain is massive, covering 800km X 800km X 30km. While the grid dimensions change as the simulation advances, the simulation at the time when this plot was created has a total of 127,000,000 grid points using spectral elements of order 4!
-![Tc](/assets/images/cloud-NVIDIAIndex.png)
+![Tc](/assets/images/TC2.png)
 
 # Improving cloud modeling on large computers
 The paper by graduate student Yassine Tissaoui investigated how vertically unstructured grids can be beneficial in the modeling of clouds on very large computers. This work sets the stepping stone towards the ability to use fully three-dimensional adaptive grids to study tropical cyclones (see project above) on exascale computers without breaking the bank when it comes to computational cost.

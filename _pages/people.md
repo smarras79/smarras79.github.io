@@ -19,9 +19,6 @@ title: Group members
 - Noah Stanford, Bergen County High School.  (May 2023 - current)\
   Working on discontinuous Galerkin methods and quantum computing.
 - Rhea Rawat, Jihn P. Stevens High School (Sept 2023 - current). Working on code performance evaluation.
-- Umberto Neviani, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
-- Lorenzo Fendillo, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
-- Harrison Tracy, B.S. (March 2024 - current). Flow visualization. 
 
 ## Post doctoral scientists
 - Dr. Hang Wang, April 2024 - current
@@ -35,14 +32,13 @@ title: Group members
 - Abhishek Mukherjee, Ph.D. Mechanical Engineering, NJIT, defended in May 2023.
 
 ## M.S. students
-- Teresa Tarulli, M.S. Mechanical and Industrial Engineering. Double degree with Uni-
-verity of Bari, Italy.
-- Gianluca Palu,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
-Italy.
-- Matteo Fabbri,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
-Italy.
-- Luca Gandolfi,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
-Italy.
+- Umberto Neviani, M.S. (Sept 2023 - May 2024). Jexpresso. Double degree with Uni. Parma, Italy
+- Lorenzo Fendillo, M.S. (Sept 2023 - May 2024). Jexpresso. Double degree with Uni. Parma, Italy
+- Harrison Tracy, B.S. (March 2024 - April 2024). Flow visualization.
+- Teresa Tarulli, M.S. Industrial Engineering. Double degree with Univerity of Bari, Italy.
+- Gianluca Palu,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
+- Matteo Fabbri,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
+- Luca Gandolfi,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
 - Alice Ragni,  M.S. Mechanical engineering.
 - Kevin Klein, M.S. Mechanical engineering.
 - Luca Gandolfi, M.S. Mechanical engineering.
