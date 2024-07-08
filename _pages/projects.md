@@ -10,6 +10,7 @@ Funded by the National Science Foundation, and in collaboration with Dr. Steve G
 The figure shows the cloud cover within a tropical cyclone simulated using adaptive mesh refinement up to LES resolution of 250 meters in the inner region of the hurricane. The 3D domain is massive, covering 800km X 800km X 30km. While the grid dimensions change as the simulation advances, the simulation at the time when this plot was created has a total of 127,000,000 grid points using spectral elements of order 4.
 ![Tc](/assets/images/TC2.png)
 ![Tc](/assets/videos/AMR_4_animation_v2.gif)
+![Tc](/assets/videos/AMR_4_grid_animation_v2.gif)
 
 # Improving cloud modeling on large computers
 The paper by graduate student Yassine Tissaoui investigated how vertically unstructured grids can be beneficial in the modeling of clouds on very large computers. This work sets the stepping stone towards the ability to use fully three-dimensional adaptive grids to study tropical cyclones (see project above) on exascale computers without breaking the bank when it comes to computational cost.
