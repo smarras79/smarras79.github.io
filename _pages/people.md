@@ -11,7 +11,7 @@ title: Group members
 2019-2021 Associate Scientist, [CliMA](https://clima.caltech.edu)\
 2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)\
 2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu)\
-2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/), mentored by long-time collaborator [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) at the [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
+2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/). Mentor: [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/), [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
 2012 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain. Advisors: [Dr. Mariano Vazquez](https://scholar.google.com.ar/citations?user=fCg0DeMAAAAJ&hl=en) and [Dr. Oriol Jorba](https://scholar.google.es/citations?user=kbSmdl0AAAAJ&hl=en), [Barcelona Supercomputing Center](https://www.bsc.es).\
 2005 M.S. in aerospace engineering, Politecnico di Milano. Thesis developed at AIRBUS Deutschland, Hamburg, Germany.
 
