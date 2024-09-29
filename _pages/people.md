@@ -8,7 +8,7 @@ title: Group members
 ## Principal Investigator:
 - Prof. Simone Marras\
 2024-current Associate Professor (with tenure), [NJIT](https://www.njit.edu)\
-2019-2021 Associate Scientist, [CliMA](https://clima.caltech.edu)\
+2019-2021 Associate Scientist, [Climate Modeling Alliance @ Caltech](https://clima.caltech.edu)\
 2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)\
 2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu)\
 2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/). Mentor: [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/), [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
