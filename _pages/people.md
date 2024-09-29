@@ -15,19 +15,18 @@ title: Group members
 2012 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain. Advisors: [Dr. Mariano Vazquez](https://scholar.google.com.ar/citations?user=fCg0DeMAAAAJ&hl=en) and [Dr. Oriol Jorba](https://scholar.google.es/citations?user=kbSmdl0AAAAJ&hl=en), [Barcelona Supercomputing Center](https://www.bsc.es).\
 2005 M.S. in aerospace engineering, Politecnico di Milano. Thesis developed at AIRBUS Deutschland, Hamburg, Germany.
 
+## Current post-doctoral scientists:
+- Dr. Hang Wang, April 2024 - current
 
 ## Current students:
 - Martina Albarelli, Ph.D. student in Industrial Engineering. Topic: Decision making and marketing (Starting January 2025)
 
-## Post doctoral scientists
-- Dr. Hang Wang, April 2024 - current
-
 # Previous:
-## Post doctoral scientists
+## Post-doctoral scientists:
 - Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. 2019-2021.
 
 ## Ph.D. students
-- Yassine Tissaoui, Ph.D. Mechanical Engineering, NJIT, defendes in May 2024.
+- Yassine Tissaoui, Ph.D. Mechanical Engineering, NJIT, defended in May 2024.
 - Abhishek Mukherjee, Ph.D. Mechanical Engineering, NJIT, defended in May 2023.
 
 ## M.S. students
