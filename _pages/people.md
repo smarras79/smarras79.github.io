@@ -5,8 +5,10 @@ classes: wide
 author_profile: true
 title: Group members
 ---
-## Principal Investigator
+## Principal Investigator:
 - Prof. Simone Marras\
+2024-current Associate Professor (with tenure), [NJIT](https://www.njit.edu)
+2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)
 2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu), in the group led by Dr. Jenny Suckale.\
 2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/), mentored by long-time collaborator [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) at the [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
 2012 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain. Advisors: [Dr. Mariano Vazquez](https://scholar.google.com.ar/citations?user=fCg0DeMAAAAJ&hl=en) and [Dr. Oriol Jorba](https://scholar.google.es/citations?user=kbSmdl0AAAAJ&hl=en), [Barcelona Supercomputing Center](https://www.bsc.es).\
@@ -14,27 +16,23 @@ title: Group members
 
 
 ## Current students:
-- Yassine Tissaoui, Ph.D. Candidate (September 2019 - current. Expected defense: Sept 2024)\
-  Working on the modeling of tropical cyclones intensification, numerical analysis, atmospheric turbulence.
-- Noah Stanford, Bergen County High School.  (May 2023 - current)\
-  Working on discontinuous Galerkin methods and quantum computing.
-- Rhea Rawat, Jihn P. Stevens High School (Sept 2023 - current). Working on code performance evaluation.
-- Umberto Neviani, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
-- Lorenzo Fendillo, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
-- Harrison Tracy, B.S. (March 2024 - current). Flow visualization. 
+- Martina Alberelli, Ph.D. student in Industrial Engineering. Topic: Decision making and marketing (Starting January 2025)
 
 ## Post doctoral scientists
 - Dr. Hang Wang, April 2024 - current
 
-
 # Previous:
 ## Post doctoral scientists
-- Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. 2019-2021
+- Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. 2019-2021.
 
 ## Ph.D. students
+- Yassine Tissaoui, Ph.D. Mechanical Engineering, NJIT, defendes in May 2024.
 - Abhishek Mukherjee, Ph.D. Mechanical Engineering, NJIT, defended in May 2023.
 
 ## M.S. students
+- Umberto Neviani, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
+- Lorenzo Fendillo, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
+- Harrison Tracy, B.S. (March 2024 - current). Flow visualization. 
 - Teresa Tarulli, M.S. Mechanical and Industrial Engineering. Double degree with Uni-
 verity of Bari, Italy.
 - Gianluca Palu,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
@@ -63,3 +61,8 @@ Prof. Jenny Suckale, Stanford University
 - Victor Rodriguez, B.S. Mechanical engineering.
 - Sarah Gross, B.S. Mechanical engineering.
 - Kevin Klein, B.S. Mechanical engineering.
+
+## High School students
+- Noah Stanford, Bergen County High School.  (May 2023 - current)
+  Now student at Stanford University. B.S. Physics and Computer Science.
+- Rhea Rawat, Jihn P. Stevens High School (Sept 2023 - current).
