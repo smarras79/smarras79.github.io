@@ -39,8 +39,6 @@ title: Group members
 - Luca Gandolfi,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
 - Alice Ragni,  M.S. Mechanical engineering.
 - Kevin Klein, M.S. Mechanical engineering.
-- Luca Gandolfi, M.S. Mechanical engineering.
-- Matteo Fabbri, M.S. Mechanical engineering.
 - Abhinav Goel, M.S. Mechanical engineering.
 - Songze Li, graduated, Stanford University, Co-advisor (with Prof.
 Jenny Suckale, Stanford University)
