@@ -8,6 +8,7 @@ title: Group members
 ## Principal Investigator:
 - Prof. Simone Marras\
 2024-current Associate Professor (with tenure), [NJIT](https://www.njit.edu)
+2019-2021 Associate Scientist, [CliMA](https://clima.caltech.edu)
 2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)
 2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu), in the group led by Dr. Jenny Suckale.\
 2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/), mentored by long-time collaborator [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) at the [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
@@ -30,17 +31,13 @@ title: Group members
 - Abhishek Mukherjee, Ph.D. Mechanical Engineering, NJIT, defended in May 2023.
 
 ## M.S. students
-- Umberto Neviani, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
-- Lorenzo Fendillo, M.S. (Sept 2023 - current). Jexpresso. Double degree with Uni. Parma, Italy
-- Harrison Tracy, B.S. (March 2024 - current). Flow visualization. 
-- Teresa Tarulli, M.S. Mechanical and Industrial Engineering. Double degree with Uni-
-verity of Bari, Italy.
-- Gianluca Palu,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
-Italy.
-- Matteo Fabbri,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
-Italy.
-- Luca Gandolfi,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,
-Italy.
+- Umberto Neviani, M.S. (Sept 2023 - May 2024). Jexpresso. Double degree with Uni. Parma, Italy
+- Lorenzo Fendillo, M.S. (Sept 2023 - May 2024). Jexpresso. Double degree with Uni. Parma, Italy
+- Harrison Tracy, B.S. (March 2024 - April 2024). Flow visualization.
+- Teresa Tarulli, M.S. Industrial Engineering. Double degree with Univerity of Bari, Italy.
+- Gianluca Palu,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
+- Matteo Fabbri,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
+- Luca Gandolfi,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
 - Alice Ragni,  M.S. Mechanical engineering.
 - Kevin Klein, M.S. Mechanical engineering.
 - Luca Gandolfi, M.S. Mechanical engineering.

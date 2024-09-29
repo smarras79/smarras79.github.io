@@ -107,7 +107,7 @@ analytics:
 author:
   name             : #"Simone Marras, Ph.D."
   avatar           : "/assets/images/bio-self2.jpg"
-  bio              : "Assistant Professor of Fluid Dynamics and Scientific Computing at New Jersey Institute of Technology."
+  bio              : "Associate Professor of Fluid Dynamics and Scientific Computing at New Jersey Institute of Technology."
   email            :  smarras@njit.edu
   # googlescholar    : "https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en"
   Ph.D. : "Scientific Computing, Universitat Politecnica de Catalunya, Spain"
