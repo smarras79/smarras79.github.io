@@ -17,7 +17,7 @@ title: Group members
 
 
 ## Current students:
-- Martina Alberelli, Ph.D. student in Industrial Engineering. Topic: Decision making and marketing (Starting January 2025)
+- Martina Albarelli, Ph.D. student in Industrial Engineering. Topic: Decision making and marketing (Starting January 2025)
 
 ## Post doctoral scientists
 - Dr. Hang Wang, April 2024 - current
