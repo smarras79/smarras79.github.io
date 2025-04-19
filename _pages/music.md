@@ -1,5 +1,5 @@
 ---
-permalink: /projects/
+permalink: /music/
 excerpt: "Experimental music"
 classes: wide
 author_profile: true

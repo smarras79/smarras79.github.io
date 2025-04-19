@@ -12,5 +12,7 @@ main:
     url: /openings/
   - title: "Teaching"
     url: /teaching/
+  - title: "Music"
+    url: /music/
   - title: "Contact"
     url: /contact/
