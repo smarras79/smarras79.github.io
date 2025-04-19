@@ -6,7 +6,7 @@ author_profile: true
 title: Join the group
 ---
 
-There are no PhD or Post-doctoral positions open at this time. Please check in here later.
+There are NO PhD or Post-doctoral positions open at this time. Please check in here later.
 
 ## Funded UNDERGRADUATE projects (only for current NJIT undergraduate students):
 1. If you are interested in flow visualization, experience with computers and minimal programming, and are willing to commit 10 hours/week, contact me with the following documents:
