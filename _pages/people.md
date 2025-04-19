@@ -5,30 +5,28 @@ classes: wide
 author_profile: true
 title: Group members
 ---
-## Principal Investigator
+## Principal Investigator:
 - Prof. Simone Marras\
-2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu), in the group led by Dr. Jenny Suckale.\
-2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/), mentored by long-time collaborator [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/) at the [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
+2024-current Associate Professor (with tenure), [NJIT](https://www.njit.edu)\
+2019-2021 Associate Scientist, [Climate Modeling Alliance @ Caltech](https://clima.caltech.edu)\
+2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)\
+2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu)\
+2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/). Mentor: [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/), [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
 2012 Ph.D. in scientific computing and environmental engineering, Universitat Politecnica de Catalunya, Spain. Advisors: [Dr. Mariano Vazquez](https://scholar.google.com.ar/citations?user=fCg0DeMAAAAJ&hl=en) and [Dr. Oriol Jorba](https://scholar.google.es/citations?user=kbSmdl0AAAAJ&hl=en), [Barcelona Supercomputing Center](https://www.bsc.es).\
 2005 M.S. in aerospace engineering, Politecnico di Milano. Thesis developed at AIRBUS Deutschland, Hamburg, Germany.
 
-
-## Current students:
-- Yassine Tissaoui, Ph.D. Candidate (September 2019 - current. Expected defense: Sept 2024)\
-  Working on the modeling of tropical cyclones intensification, numerical analysis, atmospheric turbulence.
-- Noah Stanford, Bergen County High School.  (May 2023 - current)\
-  Working on discontinuous Galerkin methods and quantum computing.
-- Rhea Rawat, Jihn P. Stevens High School (Sept 2023 - current). Working on code performance evaluation.
-
-## Post doctoral scientists
+## Current post-doctoral scientists:
 - Dr. Hang Wang, April 2024 - current
 
+## Current students:
+- Martina Albarelli, Ph.D. student in Industrial Engineering. Topic: Decision making and marketing (Starting January 2025)
 
 # Previous:
-## Post doctoral scientists
-- Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. 2019-2021
+## Post-doctoral scientists:
+- Dr. Margarida Moragues, funded by a Marie-Slodowska Curie fellowship. 2019-2021.
 
 ## Ph.D. students
+- Yassine Tissaoui, Ph.D. Mechanical Engineering, NJIT, defended in May 2024.
 - Abhishek Mukherjee, Ph.D. Mechanical Engineering, NJIT, defended in May 2023.
 
 ## M.S. students
@@ -41,8 +39,6 @@ title: Group members
 - Luca Gandolfi,  M.S.Mechanical Engineering. Double degree with Univerity of Parma,Italy.
 - Alice Ragni,  M.S. Mechanical engineering.
 - Kevin Klein, M.S. Mechanical engineering.
-- Luca Gandolfi, M.S. Mechanical engineering.
-- Matteo Fabbri, M.S. Mechanical engineering.
 - Abhinav Goel, M.S. Mechanical engineering.
 - Songze Li, graduated, Stanford University, Co-advisor (with Prof.
 Jenny Suckale, Stanford University)
@@ -59,3 +55,8 @@ Prof. Jenny Suckale, Stanford University
 - Victor Rodriguez, B.S. Mechanical engineering.
 - Sarah Gross, B.S. Mechanical engineering.
 - Kevin Klein, B.S. Mechanical engineering.
+
+## High School students
+- Noah Stanford, Bergen County High School.  (May 2023 - current)
+  Now student at Stanford University. B.S. Physics and Computer Science.
+- Rhea Rawat, Jihn P. Stevens High School (Sept 2023 - current).
