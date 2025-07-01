@@ -6,10 +6,11 @@ classes: wide
 author_profile: true
 nocite: "@*"
 ---
+
+## Citations from google scholar (usually up date)
 See all publications and pre-prints on [Scholar](https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en)
 
-# List (WARNING not always up to date)
-
+## List of articles with links (not always up to date!)
 30. Marras, S., Yassine Tissaoui, Hang, Wang. Jexpresso: a Julia-language, user-friendly multi-solver for conservation laws and some types of kinetic equations. *In preparation for JOSS*, 2025
 
 29. Wang, H., Yassine Tissaoui, Sam Stechmann, Simone Marras.
