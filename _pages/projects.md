@@ -20,6 +20,8 @@ The paper by graduate student Yassine Tissaoui investigated how vertically unstr
 ## Rendering of numerically simulated thunderstorm
 The video is a Maya rendering of the storm simulated using the Nonhydrostatic Unified Model of the Atmosphere (NUMA). The rendered data come from the solution to the Navier-Stokes equations via high-order spectral elements with a dynamic subgrid scale for large eddy simulation.
 
+![storm](../assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.gif)
+
 https://drive.google.com/file/d/1yvZrVCDGAzqhllLVUFiP4xO7x3tCk_Q1/view?usp=sharing
 
 <video src="https://drive.google.com/file/d/1yvZrVCDGAzqhllLVUFiP4xO7x3tCk_Q1/view?usp=sharing" width="352" height="720"></video>
