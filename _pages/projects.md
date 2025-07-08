@@ -16,7 +16,8 @@ The figure shows the cloud cover within a tropical cyclone simulated using adapt
 The paper by graduate student Yassine Tissaoui investigated how vertically unstructured grids can be beneficial in the modeling of clouds on very large computers. This work sets the stepping stone towards the ability to use fully three-dimensional adaptive grids to study tropical cyclones (see project above) on exascale computers without breaking the bank when it comes to computational cost.
 [Tissaoui et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003283)
 ![cloud](../assets/images/cloudJAMES.jpg)
-![storm](../assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.mp4)
+![storm](../assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.gif)
+
 https://github.com/smarras79/smarras79.github.io/tree/master/assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.mp4
 
 # Whale simulations
