@@ -16,8 +16,11 @@ The figure shows the cloud cover within a tropical cyclone simulated using adapt
 The paper by graduate student Yassine Tissaoui investigated how vertically unstructured grids can be beneficial in the modeling of clouds on very large computers. This work sets the stepping stone towards the ability to use fully three-dimensional adaptive grids to study tropical cyclones (see project above) on exascale computers without breaking the bank when it comes to computational cost.
 [Tissaoui et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003283)
 ![cloud](../assets/images/cloudJAMES.jpg)
-![storm](../assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.mp4)
-https://github.com/smarras79/smarras79.github.io/tree/master/assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.mp4
+
+https://github.com/user-attachments/assets/f40a5504-573a-4986-aa55-be793b0cd49d
+
+
+
 
 # Whale simulations
 This study, in collaboration with scientists from different institutions, contributed to a better understanding of why remoras attachon some very specific parts of large blue whales. All simulations were performed by Dr. Abhishek Mukherjee while he was a doctoral student at NJIT. The multi-physics software [Alya](https://www.bsc.es/research-development/research-areas/engineering-simulations/alya-high-performance-computational) from the [Barcelona Supercomputing Center (BSC)](https://www.bsc.es) was a key tool to obtain these results. The New York Times even wrote an article about this study [NY Times link](https://www.nytimes.com/2020/10/29/science/remoras-suckerfish-whales.html)! [Flammang et al. 2020](https://journals.biologists.com/jeb/article/223/20/jeb226654/226037/Remoras-pick-where-they-stick-on-blue-whales). The figure shows the structure of the turbulente flow in the proximity of the bluewhale boundary layer. The simulation, which was run on [Marenostrum IV](https://www.bsc.es/marenostrum/marenostrum) at BSC, used 40,000,000 finite elements, 80% of which were in the boundary layer alone. 
