@@ -17,9 +17,11 @@ The paper by graduate student Yassine Tissaoui investigated how vertically unstr
 [Tissaoui et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003283)
 ![cloud](../assets/images/cloudJAMES.jpg)
 ![storm](../assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.mp4)
+https://github.com/smarras79/smarras79.github.io/tree/master/assets/videos/CloudSimulationwithAtmosphericModelNUMA-HD-AMueller.mp4
 
 # Whale simulations
 This study, in collaboration with scientists from different institutions, contributed to a better understanding of why remoras attachon some very specific parts of large blue whales. All simulations were performed by Dr. Abhishek Mukherjee while he was a doctoral student at NJIT. The multi-physics software [Alya](https://www.bsc.es/research-development/research-areas/engineering-simulations/alya-high-performance-computational) from the [Barcelona Supercomputing Center (BSC)](https://www.bsc.es) was a key tool to obtain these results. The New York Times even wrote an article about this study [NY Times link](https://www.nytimes.com/2020/10/29/science/remoras-suckerfish-whales.html)! [Flammang et al. 2020](https://journals.biologists.com/jeb/article/223/20/jeb226654/226037/Remoras-pick-where-they-stick-on-blue-whales). The figure shows the structure of the turbulente flow in the proximity of the bluewhale boundary layer. The simulation, which was run on [Marenostrum IV](https://www.bsc.es/marenostrum/marenostrum) at BSC, used 40,000,000 finite elements, 80% of which were in the boundary layer alone. 
+![]
 ![whale](/assets/images/contour_blue_03.jpg)
 
 
@@ -31,6 +33,6 @@ More work on tsunami modeling by the PI with collaborators at [Stanford Universi
 
 # Open boundary conditions for compressibles flows
 Mitigating the impact of waves leaving a numerical domain has been a persistent challenge in numerical modeling. Reducing wave reflection at the domain boundary is crucial for accurate simulations. Absorbing layers, while common, often incur significant computational costs. This paper introduces an efficient application of a Legendre-Laguerre basis for absorbing layers for two-dimensional non-linear compressible Euler equations. The method couples a spectral-element bounded domain with a semi-infinite region, employing a tensor product of Lagrange and scaled Laguerre basis functions. The semi-infinite region serves as an absorbing layer for our simulations. In comparison to existing methods with similar absorbing layer extensions, our approach, a pioneering application to the Euler equations, demonstrates substantial computational savings. The study marks the first application of semi-infinite elements to mitigate wave reflection in the solution of the Euler equations, particularly in nonhydrostatic atmospheric modeling. A comprehensive set of tests demonstrates the method's versatility for general systems of conservation laws, with a focus on its effectiveness in damping vertically propagating gravity waves in a linear hydrostatic mountain simulation a benchmark for atmospheric models. Across all tests, our model consistently exhibits notable performance improvements compared to a traditional Rayleigh damping approach.
-[Tissaoui, Kelly, Marras (2024)](https://arxiv.org/abs/2401.05624)
+[Tissaoui, Kelly, Marras (2025)](https://www.sciencedirect.com/science/article/pii/S0096300324005411)
 ![cloud](../assets/images/v-schar.png)
 
