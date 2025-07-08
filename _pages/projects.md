@@ -17,9 +17,11 @@ The paper by graduate student Yassine Tissaoui investigated how vertically unstr
 [Tissaoui et al.](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003283)
 ![cloud](../assets/images/cloudJAMES.jpg)
 
+## Rendering of numerically simulated thunderstorm
 https://github.com/user-attachments/assets/f40a5504-573a-4986-aa55-be793b0cd49d
-
-
+Credits:
+- Rendering: [Andreas Mueller](http://anmr.de/cloudwithmaya/)
+- Modeling, coding, simulations: S. Marras, A. Mueller, F. X. Giraldo
 
 
 # Whale simulations
