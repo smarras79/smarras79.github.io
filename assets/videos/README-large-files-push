@@ -1,0 +1,11 @@
+#git lfs install (if not already installed)
+
+git lfs track FILENAME.gif
+
+git add .gitattributes
+
+git add FILENAME.gif
+
+git commit -m "Add large GIF file via LFS"
+
+git push origin master
