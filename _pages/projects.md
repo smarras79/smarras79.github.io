@@ -12,7 +12,7 @@ SGS model: Richardson-corrected Smagorinsky.
 Effective resolution: Dx = Dy = 40 m, Dz = 31.25 m using 4th-order spectral elements.
 The animation shows a bottom view of potential temperature (left), vertical velocity at z=100 m (top right), and (xz) view of potential temperature at y=5120 m (bottom right).
 Simulated using [Jexpresso](https://github.com/smarras79/Jexpresso/tree/yt/wallmodel)
-[![ABL](https://youtu.be/Xpit9T_14AA)]
+![ABL](https://youtu.be/Xpit9T_14AA)
 
 # Tropical cyclones at very high resolution using adaptive grids
 Funded by the National Science Foundation, and in collaboration with Dr. Steve Guimond from Hampton University, we are investigating, by high-performance computing and numerical means, the fluid flow dynamics that control the rapid intensification of tropical cyclones.
