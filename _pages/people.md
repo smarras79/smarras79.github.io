@@ -7,6 +7,7 @@ title: Group members
 ---
 ## Principal Investigator:
 - Prof. Simone Marras\
+Sept 2025-May 2026: On sabbatical leave at Charles University, Prague, Czech Republic. Working on mixed precision arithmentic with [Dr. Erin Carson](https://www.karlin.mff.cuni.cz/~carson/)\
 2024-current Associate Professor (with tenure), [NJIT](https://www.njit.edu)\
 2019-2021 Associate Scientist, [Climate Modeling Alliance @ Caltech](https://clima.caltech.edu)\
 2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)\
