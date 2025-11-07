@@ -13,7 +13,7 @@ Effective resolution: Dx = Dy = 40 m, Dz = 24.0 m using 4th-order spectral eleme
 The animation shows a bottom view of potential temperature (left), vertical velocity at z=100 m (top right), and (xz) view of potential temperature at y=5120 m (bottom right).
 Simulated using [Jexpresso](https://github.com/smarras79/Jexpresso/tree/yt/wallmodel)
 
-![LES6mount](../assets/videos/GIG-LES6_theta_64x64x32_last30min.gif)
+![LES6mount](/assets/videos/GIG-LES6_theta_64x64x32_last30min.gif)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xpit9T_14AA?si=dAEsP9YEkv8ubgsO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
