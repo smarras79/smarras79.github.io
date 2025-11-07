@@ -6,12 +6,14 @@ author_profile: true
 title: On-going and past projects
 ---
 # Planetary boundary layer
-Simulation of a planetary boundary layer over a flat terrain. Domain size: 10240 km X 10240 km X 3000 km. Periodic in x and y. 
+Simulation of a planetary boundary layer with and without topography. Domain size: 10240 km X 10240 km X 3500 km. Periodic in x and y. 
 Surface layer: Monin-Obukhov Similarity Theory.
 SGS model: Richardson-corrected Smagorinsky. 
-Effective resolution: Dx = Dy = 40 m, Dz = 31.25 m using 4th-order spectral elements.
+Effective resolution: Dx = Dy = 40 m, Dz = 24.0 m using 4th-order spectral elements.
 The animation shows a bottom view of potential temperature (left), vertical velocity at z=100 m (top right), and (xz) view of potential temperature at y=5120 m (bottom right).
 Simulated using [Jexpresso](https://github.com/smarras79/Jexpresso/tree/yt/wallmodel)
+
+![LES6mount](/assets/videos/GIG-LES6_theta_64x64x32_last30min.gif)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Xpit9T_14AA?si=dAEsP9YEkv8ubgsO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
