@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-“Remembrance of things past is not necessarily the remembrance of things as they were.” —Marcel Proust
+**_“Remembrance of things past is not necessarily the remembrance of things as they were.” —Marcel Proust_**
 
 Welcome to the Computational Fluid Dynamics and Natural Hazards Lab!
 
