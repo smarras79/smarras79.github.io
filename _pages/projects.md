@@ -5,6 +5,12 @@ classes: wide
 author_profile: true
 title: On-going and past projects
 ---
+
+# Computational Neuroscience
+In collaboration with [Dr. Chen (Sage)](https://www.cn3laboratory.org/) from NYU and Dr. Suajaya Neupane from MIT and Uni. of York (CA), we use deepe learning to shed some light on how memory solidifies in the human brain.
+
+![neuro](/assets/temporal_tuning_curves.png)
+
 # Planetary boundary layer
 Simulation of a planetary boundary layer with and without topography. Domain size: 10240 m X 10240 m X 3500 m. Periodic in x and y. 
 Surface layer: Monin-Obukhov Similarity Theory.
