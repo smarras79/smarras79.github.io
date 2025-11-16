@@ -7,7 +7,7 @@ title: On-going and past projects
 ---
 
 # Computational Neuroscience
-In collaboration with [Dr. Chen (Sage)](https://www.cn3laboratory.org/) and his [_Computational Neuroscience, Neuroengineering & Neuropsychiatry Lab_](https://www.cn3laboratory.org/) at **NYU** and Dr. Suajaya Neupane from MIT and Uni. of York (CA), we use deepe learning to shed some light on how memory solidifies in the human brain.
+In collaboration with [Dr. Chen (Sage)](https://www.cn3laboratory.org/) and his [_Computational Neuroscience, Neuroengineering & Neuropsychiatry Lab_](https://www.cn3laboratory.org/) at **NYU** and Dr. Suajaya Neupane from MIT and Uni. of York (CA), we use deep learning algorithms to shed some light on how memory solidifies in the human brain.
 
 ![neuro](/assets/temporal_tuning_curves.png)
 
