@@ -7,9 +7,9 @@ title: On-going and past projects
 ---
 
 # Computational Neuroscience
-In collaboration with [Dr. Chen (Sage)](https://www.cn3laboratory.org/) and his [_Computational Neuroscience, Neuroengineering & Neuropsychiatry Lab_](https://www.cn3laboratory.org/) at **NYU** and Dr. Suajaya Neupane from MIT and Uni. of York (CA), we use deep learning algorithms to shed some light on how memory solidifies in the human brain.
+In collaboration with [Dr. Chen (Sage)](https://www.cn3laboratory.org/) and his [_Computational Neuroscience, Neuroengineering & Neuropsychiatry Lab_](https://www.cn3laboratory.org/) at **NYU** and Dr. Suajaya Neupane from MIT and Uni. of York (CA), we use deep learning algorithms to shed some light on how memory solidifies in the human brain. The plots below are a sample of measured neuronal activity in the brain of monkeys during a memory measurement experiment.
 
-![neuro](/assets/images/temporal_tuning_curves.png)
+![neuro](/assets/images/temporal_tuning_curves-sigma50.png)
 
 # Planetary boundary layer
 Simulation of a planetary boundary layer with and without topography. Domain size: 10240 m X 10240 m X 3500 m. Periodic in x and y. 
