@@ -12,7 +12,12 @@ In collaboration with [Dr. Zhe Sage Chen](https://www.cn3laboratory.org/) and hi
 ![neuro](/assets/images/temporal_tuning_curves-sigma50.png)
 
 # Guns violence
-In collaboration with [Dr. Roni Barak Ventura](https://www.linkedin.com/in/roni-barak-ventura/) and Ph.D. students Martina Albarelli and Aayush Chitransh, we are studying how specific state and federal laws to control gun purchases may affect the homicide rates in the US.
+In collaboration with [Dr. Roni Barak Ventura](https://www.linkedin.com/in/roni-barak-ventura/) and Ph.D. students Martina Albarelli and Aayush Chitransh, we are studying how specific state and federal laws to control gun purchases may affect the homicide rates in the US. 
+This research applies causal-inference methods, including synthetic control and its variants, to assess the impact of ERPO (Extreme Risk Protection Order) laws on gender-differentiated homicide rates in the US. 
+
+# Decision making and behavioral science
+Through the work of doctoral student Martina Albarelli, co-advised by Dr. [David Eisenberg](https://www.montclair.edu/profilepages/view_profile.php?username=eisenbergd) and in collaboration with Dr. [Jorge Fresneda](https://jorgefresneda.weebly.com/) from the school of management, we use AI/ML to investigate how emotions influence decision-making. Martina's work integrates policy analysis, behavioral science, and data-driven modeling.
+
 
 # Planetary boundary layer
 Simulation of a planetary boundary layer with and without topography. Domain size: 10240 m X 10240 m X 3500 m. Periodic in x and y. 
