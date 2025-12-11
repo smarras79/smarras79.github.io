@@ -20,7 +20,9 @@ Sept 2025-May 2026: On sabbatical leave at Charles University, Prague, Czech Rep
 - Dr. Hang Wang, April 2024 - current
 
 ## Current students:
-- Martina Albarelli, Ph.D. student in Industrial Engineering. Topic: Decision making and marketing (Starting January 2025)
+- Martina Albarelli, Ph.D. student in Industrial Engineering.(Since January 2025).
+
+Martina holds an M.S. in Management Engineering. Her research applies causal-inference methods, including synthetic control and its variants, to assess the impact of ERPO (Extreme Risk Protection Order) laws on gender-differentiated homicide rates. She also investigates how emotions influence decision-making by using machine learning on EEG data. Her work integrates policy analysis, behavioral science, and data-driven modeling to support decision-making.
 
 # Previous:
 ## Post-doctoral scientists:
