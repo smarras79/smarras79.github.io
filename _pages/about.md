@@ -18,9 +18,8 @@ Dr. Marras's lab has been funded by the National Science Foundation (NSF), the E
 <img src="../assets/logos/njeda.png" alt="drawing" width="100"/>
 <img src="../assets/logos/MarieCurieLogo320px.jpg" alt="drawing" width="200"/>
 <img src="../assets/logos/logo-ec--en.svg" alt="drawing" width="200"/>
-<a href="https://www.njit.edu/">
-   <img src="../assets/logos/njit.png" alt="drawing" width="200"/>
-</a>
+<img src="../assets/logos/ups.png" alt="drawing" width="50"/>
+<a href="https://www.njit.edu/"><img src="../assets/logos/njit.png" alt="drawing" width="200"/></a>
 <a href="https://www.nytimes.com/2020/10/29/science/remoras-suckerfish-whales.html">
    <img src="../assets/logos/nyt.png" alt="drawing" width="400"/>
 </a>
@@ -30,6 +29,4 @@ Dr. Marras's lab has been funded by the National Science Foundation (NSF), the E
 <a href="https://www.smithsonianmag.com/innovation/ten-scientific-discoveries-2020-may-lead-new-inventions-180976616">
    <img src="../assets/logos/smithsonian.png" alt="drawing" width="400"/>
 </a>
-<img src="../assets/logos/ups.png" alt="drawing" width="50"/>
-
 
