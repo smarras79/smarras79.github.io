@@ -6,8 +6,8 @@ main:
     url: /projects/
   - title: "People"
     url: /people/
-  - title: "Publications"
-    url: /bibtex/
+  - title: "Flight Log Book"
+    url: /LogBook/
   - title: "Jobs"
     url: /openings/
   - title: "Teaching"
