@@ -6,8 +6,6 @@ main:
     url: /projects/
   - title: "People"
     url: /people/
-  - title: "Flight-Log"
-    url: /LogBook/
   - title: "Jobs"
     url: /openings/
   - title: "Teaching"
