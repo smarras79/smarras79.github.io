@@ -6,8 +6,6 @@ main:
     url: /projects/
   - title: "People"
     url: /people/
-  - title: "Publications"
-    url: /bibtex/
   - title: "Jobs"
     url: /openings/
   - title: "Teaching"
