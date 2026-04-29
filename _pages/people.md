@@ -7,7 +7,11 @@ title: Group members
 ---
 ## Principal Investigator:
 - Prof. Simone Marras\
-Sept 2025-May 2026: On sabbatical leave at Charles University, Prague, Czech Republic. Working on mixed precision arithmentic with [Dr. Erin Carson](https://www.karlin.mff.cuni.cz/~carson/)\
+Sept 2025-May 2026: On sabbatical leave:\
+Charles University, Prague, Czech Republic. Collaborating on mixed precision arithmentic with [Dr. Erin Carson](https://www.karlin.mff.cuni.cz/~carson/) and Dr. Santolo Leveuqe\
+Barcelona Supercomputing Center, Spain. Collaborating on multi-code coupling multi-scale microplastics transport with [Dr. Guillaume Houzeaux](www.bsc.es)\
+UNAM - ENES Merida, Mexico. Collaborating on sea breeze modeling with Dr. Erick Salcedo and Dr. Juan Carlos Cajas.\
+2025-current Director and co-founder (with [Dr. David Bader](https://davidbader.net/) and [Dr. Baurch Schieber](https://sbarnjit.github.io/) of the Center for Quantum Information Science and Engineering (CQISE)\
 2024-current Associate Professor (with tenure), [NJIT](https://www.njit.edu)\
 2019-2021 Visiting Associate Scientist, [Climate Modeling Alliance @ Caltech](https://clima.caltech.edu)\
 2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)\
