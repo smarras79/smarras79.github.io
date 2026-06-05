@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-excerpt: "My work history"
+permalink: /colors/
+excerpt: "Colorful videos"
 classes: wide
 author_profile: true
 title: On-going and past projects
