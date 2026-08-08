@@ -7,8 +7,13 @@ title: Group members
 ---
 ## Principal Investigator:
 - Prof. Simone Marras\
+Sept 2025-May 2026: On sabbatical leave:\
+Charles University, Prague, Czech Republic. Collaborating on mixed precision arithmentic with [Dr. Erin Carson](https://www.karlin.mff.cuni.cz/~carson/) and Dr. Santolo Leveuqe\
+Barcelona Supercomputing Center, Spain. Collaborating on multi-code coupling multi-scale microplastics transport with [Dr. Guillaume Houzeaux](www.bsc.es)\
+UNAM - ENES Merida, Mexico. Collaborating on sea breeze modeling with Dr. Erick Salcedo and Dr. Juan Carlos Cajas.\
+2025-current Director and co-founder (with [Dr. David Bader](https://davidbader.net/) and [Dr. Baurch Schieber](https://sbarnjit.github.io/)) of the Center for Quantum Information Science and Engineering (CQISE)\
 2024-current Associate Professor (with tenure), [NJIT](https://www.njit.edu)\
-2019-2021 Associate Scientist, [Climate Modeling Alliance @ Caltech](https://clima.caltech.edu)\
+2019-2021 Visiting Associate Scientist, [Climate Modeling Alliance @ Caltech](https://clima.caltech.edu)\
 2017-2024 Assistant Professor, [NJIT](https://www.njit.edu)\
 2015-2017 Research Scientist, [Stanford University](https://www.stanford.edu)\
 2013-2015 Research Associate of the National Research Council of the [National Academies](https://www.nationalacademies.org/). Mentor: [Prof. Frank X. Giraldo](https://frankgiraldo.wixsite.com/mysite/), [Naval Postgraduate School](https://www.nps.edu), Monterey, California.\
@@ -19,7 +24,9 @@ title: Group members
 - Dr. Hang Wang, April 2024 - current
 
 ## Current students:
-- Martina Albarelli, Ph.D. student in Industrial Engineering. Topic: Decision making and marketing (Starting January 2025)
+- Martina Albarelli, Ph.D. student in Industrial Engineering.(Since January 2025).
+
+Martina holds an M.S. in Management Engineering. Her research applies causal-inference methods, including synthetic control and its variants, to assess the impact of ERPO (Extreme Risk Protection Order) laws on gender-differentiated homicide rates. She also investigates how emotions influence decision-making by using machine learning on EEG data. Her work integrates policy analysis, behavioral science, and data-driven modeling to support decision-making.
 
 # Previous:
 ## Post-doctoral scientists:

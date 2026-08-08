@@ -14,6 +14,7 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Simone Marras, Ph.D."
@@ -107,7 +108,7 @@ analytics:
 author:
   name             : #"Simone Marras, Ph.D."
   avatar           : "/assets/images/bio-self2.jpg"
-  bio              : "Associate Professor of Fluid Dynamics and Scientific Computing at New Jersey Institute of Technology."
+  bio              : "Associate Professor of Fluid Dynamics and Scientific Computing at New Jersey Institute of Technology. Department of Mechanical and industrial Engineering. Department of Mathematical Sciences (by courtesy)."
   email            :  smarras@njit.edu
   # googlescholar    : "https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en"
   Ph.D. : "Scientific Computing, Universitat Politecnica de Catalunya, Spain"
@@ -194,7 +195,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
+  parse_block_html: true
 
 # Sass/SCSS
 sass:

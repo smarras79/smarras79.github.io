@@ -6,9 +6,13 @@ classes: wide
 author_profile: true
 nocite: "@*"
 ---
+See all publications and pre-prints on [Scholar](https://scholar.google.it/citations?user=eqkE-s0AAAAJ&hl=en)
 
-Tissaoui, Yassine, James F. Kelly, Simone Marras 2024 “Efficient Spectral Element Method 
-for the Euler Equations on Unbounded Domains in Multiple Dimensions” *arXiv 2401.05624* [link](https://www.researchgate.net/publication/377300918_Efficient_Spectral_Element_Method_for_the_Euler_Equations_on_Unbounded_Domains_in_Multiple_Dimensions)
+# List (WARNING not always up to date)
+
+Tissaoui, Yassine, James F. Kelly, Simone Marras 2025 “Efficient Spectral Element Method for the Euler Equations on Unbounded Domains” *Applied Mathematics and Computation* 487, 129080 [link](https://www.sciencedirect.com/science/article/pii/S0096300324005411)
+
+Tissaoui, Yassine, Steve Guimond, Frank X.  Giraldo, Simone Marras "Accelerating Simulations of Tropical Cyclones using Adaptive Mesh Refinement" *arXiv preprint arXiv:2410.21607* [link](https://arxiv.org/abs/2410.21607)
 
 Tissaoui, Yassine, Simone Marras, Annalisa Quaini, Felipe AV de Brangaca
 Alves, and Francis X Giraldo. 2023. “A Non-Column Based, Fully
