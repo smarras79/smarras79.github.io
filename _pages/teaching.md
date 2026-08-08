@@ -7,9 +7,10 @@ title: Classes
 ---
 
 ## Graduate courses
-ME 618: Advanced coding methods for partial differential equations and machine learning\
-ME 618: Turbulence
+Coding methods for partial differential equations and machine learning\
+Turbulence
 
 ## Undergraduate courses
-ME 304: Fluid mechanics\
-ME 407: Heat transfer
+Fluid mechanics\
+Thermodynamics I\
+Heat transfer
