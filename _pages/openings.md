@@ -7,7 +7,8 @@ title: Join the group
 ---
 
 ## Graduate research
-There are NO PhD or Post-doctoral positions open at this time. Please check in here later.
+PhD: no openings.\
+Postdocs in quantum machine learning (NSF-funded): url: https://www.cfd-online.com/Jobs/showjob.php?record_id=20115
 
 ## Undergraduate projects
 None at the moment.
